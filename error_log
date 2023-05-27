@@ -1,0 +1,210 @@
+[23-Jun-2019 20:16:37 Europe/Lisbon] PHP Notice:  Undefined index: action in /home/socials1/instaviews.socialsivex.com/index.php on line 98
+[23-Jun-2019 20:16:43 Europe/Lisbon] PHP Notice:  Undefined variable: user_id in /home/socials1/instaviews.socialsivex.com/index.php on line 115
+[23-Jun-2019 20:16:58 Europe/Lisbon] PHP Warning:  openssl_encrypt(): Using an empty Initialization Vector (iv) is potentially insecure and not recommended in /home/socials1/instaviews.socialsivex.com/index.php on line 223
+[23-Jun-2019 19:17:01 UTC] PHP Warning:  Division by zero in /home/socials1/instaviews.socialsivex.com/home.php on line 141
+[23-Jun-2019 19:17:01 UTC] PHP Notice:  Undefined variable: ranking in /home/socials1/instaviews.socialsivex.com/home.php on line 208
+[23-Jun-2019 19:17:01 UTC] PHP Notice:  Undefined variable: datas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 555
+[23-Jun-2019 19:17:01 UTC] PHP Notice:  Undefined variable: n_vistas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 557
+[23-Jun-2019 19:17:32 UTC] PHP Warning:  Division by zero in /home/socials1/instaviews.socialsivex.com/home.php on line 141
+[23-Jun-2019 19:17:32 UTC] PHP Notice:  Undefined variable: ranking in /home/socials1/instaviews.socialsivex.com/home.php on line 208
+[23-Jun-2019 19:17:32 UTC] PHP Notice:  Undefined variable: datas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 555
+[23-Jun-2019 19:17:32 UTC] PHP Notice:  Undefined variable: n_vistas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 557
+[23-Jun-2019 19:18:21 UTC] PHP Warning:  Division by zero in /home/socials1/instaviews.socialsivex.com/home.php on line 141
+[23-Jun-2019 19:18:21 UTC] PHP Notice:  Undefined variable: ranking in /home/socials1/instaviews.socialsivex.com/home.php on line 208
+[23-Jun-2019 19:18:21 UTC] PHP Notice:  Undefined variable: datas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 555
+[23-Jun-2019 19:18:21 UTC] PHP Notice:  Undefined variable: n_vistas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 557
+[23-Jun-2019 21:12:30 Europe/Lisbon] PHP Notice:  Undefined index: action in /home/socials1/instaviews.socialsivex.com/index.php on line 98
+[23-Jun-2019 21:12:34 Europe/Lisbon] PHP Notice:  Undefined variable: user_id in /home/socials1/instaviews.socialsivex.com/index.php on line 115
+[23-Jun-2019 21:12:57 Europe/Lisbon] PHP Warning:  openssl_encrypt(): Using an empty Initialization Vector (iv) is potentially insecure and not recommended in /home/socials1/instaviews.socialsivex.com/index.php on line 223
+[23-Jun-2019 20:12:58 UTC] PHP Warning:  Division by zero in /home/socials1/instaviews.socialsivex.com/home.php on line 141
+[23-Jun-2019 20:12:58 UTC] PHP Notice:  Undefined variable: ranking in /home/socials1/instaviews.socialsivex.com/home.php on line 208
+[23-Jun-2019 20:12:58 UTC] PHP Notice:  Undefined variable: datas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 555
+[23-Jun-2019 20:12:58 UTC] PHP Notice:  Undefined variable: n_vistas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 557
+[23-Jun-2019 21:19:02 Europe/Lisbon] PHP Notice:  Undefined index: action in /home/socials1/instaviews.socialsivex.com/index.php on line 98
+[23-Jun-2019 21:19:06 Europe/Lisbon] PHP Notice:  Undefined variable: user_id in /home/socials1/instaviews.socialsivex.com/index.php on line 115
+[23-Jun-2019 21:19:22 Europe/Lisbon] PHP Warning:  openssl_encrypt(): Using an empty Initialization Vector (iv) is potentially insecure and not recommended in /home/socials1/instaviews.socialsivex.com/index.php on line 223
+[23-Jun-2019 20:19:22 UTC] PHP Warning:  Division by zero in /home/socials1/instaviews.socialsivex.com/home.php on line 141
+[23-Jun-2019 20:19:22 UTC] PHP Notice:  Undefined variable: ranking in /home/socials1/instaviews.socialsivex.com/home.php on line 208
+[23-Jun-2019 20:19:22 UTC] PHP Notice:  Undefined variable: datas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 555
+[23-Jun-2019 20:19:22 UTC] PHP Notice:  Undefined variable: n_vistas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 557
+[23-Jun-2019 21:30:17 Europe/Lisbon] PHP Fatal error:  Uncaught InstagramAPI\Exception\NotFoundException: Requested resource does not exist. in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php:491
+Stack trace:
+#0 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(832): InstagramAPI\Client->mapServerResponse(Object(InstagramAPI\Response\UserInfoResponse), '<!DOCTYPE html>...', Object(GuzzleHttp\Psr7\Response))
+#1 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request/People.php(76): InstagramAPI\Request->getResponse(Object(InstagramAPI\Response\UserInfoResponse))
+#2 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request/People.php(96): InstagramAPI\Request\People->getInfoByName('G_a_e_n_n_.ni_s...')
+#3 /home/socials1/instaviews.socialsivex.com/index.php(211): InstagramAPI\Request\People->getUserIdForName('G_a_e_n_n_.ni_s...')
+#4 {main}
+  thrown in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php on line 491
+[23-Jun-2019 21:33:31 Europe/Lisbon] PHP Notice:  Undefined index: action in /home/socials1/instaviews.socialsivex.com/index.php on line 98
+[23-Jun-2019 21:33:33 Europe/Lisbon] PHP Fatal error:  Uncaught InstagramAPI\Exception\ChallengeRequiredException: InstagramAPI\Response\LoginResponse: Challenge required. in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Exception/ServerMessageThrower.php:190
+Stack trace:
+#0 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php(579): InstagramAPI\Exception\ServerMessageThrower::autoThrow('InstagramAPI\\Re...', 'challenge_requi...', Object(InstagramAPI\Response\LoginResponse), Object(GuzzleHttp\Psr7\Response))
+#1 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(832): InstagramAPI\Client->mapServerResponse(Object(InstagramAPI\Response\LoginResponse), '{"message": "ch...', Object(GuzzleHttp\Psr7\Response))
+#2 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Instagram.php(507): InstagramAPI\Request->getResponse(Object(InstagramAPI\Response\LoginResponse))
+#3 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Instagram.php(453): In in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Exception/ServerMessageThrower.php on line 190
+[23-Jun-2019 22:19:04 Europe/Lisbon] PHP Notice:  Undefined index: action in /home/socials1/instaviews.socialsivex.com/index.php on line 98
+[23-Jun-2019 22:19:07 Europe/Lisbon] PHP Notice:  Undefined variable: user_id in /home/socials1/instaviews.socialsivex.com/index.php on line 115
+[23-Jun-2019 22:19:20 Europe/Lisbon] PHP Warning:  openssl_encrypt(): Using an empty Initialization Vector (iv) is potentially insecure and not recommended in /home/socials1/instaviews.socialsivex.com/index.php on line 223
+[23-Jun-2019 21:19:21 UTC] PHP Warning:  Division by zero in /home/socials1/instaviews.socialsivex.com/home.php on line 141
+[23-Jun-2019 21:19:21 UTC] PHP Notice:  Undefined variable: ranking in /home/socials1/instaviews.socialsivex.com/home.php on line 208
+[23-Jun-2019 21:19:21 UTC] PHP Notice:  Undefined variable: datas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 555
+[23-Jun-2019 21:19:21 UTC] PHP Notice:  Undefined variable: n_vistas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 557
+[23-Jun-2019 21:19:55 UTC] PHP Warning:  Division by zero in /home/socials1/instaviews.socialsivex.com/home.php on line 141
+[23-Jun-2019 21:19:55 UTC] PHP Notice:  Undefined variable: ranking in /home/socials1/instaviews.socialsivex.com/home.php on line 208
+[23-Jun-2019 21:19:55 UTC] PHP Notice:  Undefined variable: datas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 555
+[23-Jun-2019 21:19:55 UTC] PHP Notice:  Undefined variable: n_vistas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 557
+[23-Jun-2019 21:20:09 UTC] PHP Warning:  Division by zero in /home/socials1/instaviews.socialsivex.com/home.php on line 141
+[23-Jun-2019 21:20:09 UTC] PHP Notice:  Undefined variable: ranking in /home/socials1/instaviews.socialsivex.com/home.php on line 208
+[23-Jun-2019 21:20:09 UTC] PHP Notice:  Undefined variable: datas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 555
+[23-Jun-2019 21:20:09 UTC] PHP Notice:  Undefined variable: n_vistas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 557
+[23-Jun-2019 22:39:36 Europe/Lisbon] PHP Notice:  Undefined variable: user_id in /home/socials1/instaviews.socialsivex.com/index.php on line 115
+[23-Jun-2019 22:39:54 Europe/Lisbon] PHP Warning:  openssl_encrypt(): Using an empty Initialization Vector (iv) is potentially insecure and not recommended in /home/socials1/instaviews.socialsivex.com/index.php on line 223
+[23-Jun-2019 21:39:54 UTC] PHP Warning:  Division by zero in /home/socials1/instaviews.socialsivex.com/home.php on line 141
+[23-Jun-2019 21:39:54 UTC] PHP Notice:  Undefined variable: ranking in /home/socials1/instaviews.socialsivex.com/home.php on line 208
+[23-Jun-2019 21:39:54 UTC] PHP Notice:  Undefined variable: datas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 555
+[23-Jun-2019 21:39:54 UTC] PHP Notice:  Undefined variable: n_vistas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 557
+[23-Jun-2019 21:40:43 UTC] PHP Warning:  Division by zero in /home/socials1/instaviews.socialsivex.com/home.php on line 141
+[23-Jun-2019 21:40:43 UTC] PHP Notice:  Undefined variable: ranking in /home/socials1/instaviews.socialsivex.com/home.php on line 208
+[23-Jun-2019 21:40:43 UTC] PHP Notice:  Undefined variable: datas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 555
+[23-Jun-2019 21:40:43 UTC] PHP Notice:  Undefined variable: n_vistas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 557
+[23-Jun-2019 21:41:38 UTC] PHP Warning:  Division by zero in /home/socials1/instaviews.socialsivex.com/home.php on line 141
+[23-Jun-2019 21:41:38 UTC] PHP Notice:  Undefined variable: ranking in /home/socials1/instaviews.socialsivex.com/home.php on line 208
+[23-Jun-2019 21:41:38 UTC] PHP Notice:  Undefined variable: datas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 555
+[23-Jun-2019 21:41:38 UTC] PHP Notice:  Undefined variable: n_vistas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 557
+[23-Jun-2019 22:53:11 Europe/Lisbon] PHP Notice:  Undefined index: action in /home/socials1/instaviews.socialsivex.com/index.php on line 98
+[23-Jun-2019 22:53:15 Europe/Lisbon] PHP Notice:  Undefined index: logged_in_user in /home/socials1/instaviews.socialsivex.com/index.php on line 115
+[23-Jun-2019 22:53:15 Europe/Lisbon] PHP Notice:  Undefined variable: user_id in /home/socials1/instaviews.socialsivex.com/index.php on line 115
+[23-Jun-2019 22:53:18 Europe/Lisbon] PHP Fatal error:  Uncaught InstagramAPI\Exception\ChallengeRequiredException: InstagramAPI\Response\LoginResponse: Challenge required. in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Exception/ServerMessageThrower.php:190
+Stack trace:
+#0 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php(579): InstagramAPI\Exception\ServerMessageThrower::autoThrow('InstagramAPI\\Re...', 'challenge_requi...', Object(InstagramAPI\Response\LoginResponse), Object(GuzzleHttp\Psr7\Response))
+#1 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(832): InstagramAPI\Client->mapServerResponse(Object(InstagramAPI\Response\LoginResponse), '{"message": "ch...', Object(GuzzleHttp\Psr7\Response))
+#2 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Instagram.php(507): InstagramAPI\Request->getResponse(Object(InstagramAPI\Response\LoginResponse))
+#3 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Instagram.php(453): In in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Exception/ServerMessageThrower.php on line 190
+[23-Jun-2019 22:57:29 Europe/Lisbon] PHP Notice:  Undefined index: action in /home/socials1/instaviews.socialsivex.com/index.php on line 98
+[23-Jun-2019 22:57:34 Europe/Lisbon] PHP Notice:  Undefined variable: user_id in /home/socials1/instaviews.socialsivex.com/index.php on line 115
+[23-Jun-2019 22:57:45 Europe/Lisbon] PHP Fatal error:  Uncaught InstagramAPI\Exception\NotFoundException: Requested resource does not exist. in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php:491
+Stack trace:
+#0 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(832): InstagramAPI\Client->mapServerResponse(Object(InstagramAPI\Response\UserInfoResponse), '<!DOCTYPE html>...', Object(GuzzleHttp\Psr7\Response))
+#1 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request/People.php(76): InstagramAPI\Request->getResponse(Object(InstagramAPI\Response\UserInfoResponse))
+#2 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request/People.php(96): InstagramAPI\Request\People->getInfoByName('hiddengem6 ')
+#3 /home/socials1/instaviews.socialsivex.com/index.php(211): InstagramAPI\Request\People->getUserIdForName('hiddengem6 ')
+#4 {main}
+  thrown in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php on line 491
+[23-Jun-2019 22:58:59 Europe/Lisbon] PHP Notice:  Undefined index: action in /home/socials1/instaviews.socialsivex.com/index.php on line 98
+[23-Jun-2019 22:59:03 Europe/Lisbon] PHP Notice:  Undefined variable: user_id in /home/socials1/instaviews.socialsivex.com/index.php on line 115
+[23-Jun-2019 22:59:15 Europe/Lisbon] PHP Warning:  openssl_encrypt(): Using an empty Initialization Vector (iv) is potentially insecure and not recommended in /home/socials1/instaviews.socialsivex.com/index.php on line 223
+[23-Jun-2019 21:59:15 UTC] PHP Warning:  Division by zero in /home/socials1/instaviews.socialsivex.com/home.php on line 141
+[23-Jun-2019 21:59:16 UTC] PHP Notice:  Undefined variable: ranking in /home/socials1/instaviews.socialsivex.com/home.php on line 208
+[23-Jun-2019 21:59:16 UTC] PHP Notice:  Undefined variable: datas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 555
+[23-Jun-2019 21:59:16 UTC] PHP Notice:  Undefined variable: n_vistas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 557
+[23-Jun-2019 22:00:01 UTC] PHP Warning:  Division by zero in /home/socials1/instaviews.socialsivex.com/home.php on line 141
+[23-Jun-2019 22:00:01 UTC] PHP Notice:  Undefined variable: ranking in /home/socials1/instaviews.socialsivex.com/home.php on line 208
+[23-Jun-2019 22:00:01 UTC] PHP Notice:  Undefined variable: datas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 555
+[23-Jun-2019 22:00:01 UTC] PHP Notice:  Undefined variable: n_vistas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 557
+[23-Jun-2019 23:10:47 Europe/Lisbon] PHP Fatal error:  Uncaught InstagramAPI\Exception\ChallengeRequiredException: InstagramAPI\Response\LoginResponse: Challenge required. in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Exception/ServerMessageThrower.php:190
+Stack trace:
+#0 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php(579): InstagramAPI\Exception\ServerMessageThrower::autoThrow('InstagramAPI\\Re...', 'challenge_requi...', Object(InstagramAPI\Response\LoginResponse), Object(GuzzleHttp\Psr7\Response))
+#1 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(832): InstagramAPI\Client->mapServerResponse(Object(InstagramAPI\Response\LoginResponse), '{"message": "ch...', Object(GuzzleHttp\Psr7\Response))
+#2 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Instagram.php(507): InstagramAPI\Request->getResponse(Object(InstagramAPI\Response\LoginResponse))
+#3 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Instagram.php(453): In in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Exception/ServerMessageThrower.php on line 190
+[23-Jun-2019 23:17:05 Europe/Lisbon] PHP Fatal error:  Uncaught InstagramAPI\Exception\ChallengeRequiredException: InstagramAPI\Response\LoginResponse: Challenge required. in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Exception/ServerMessageThrower.php:190
+Stack trace:
+#0 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php(579): InstagramAPI\Exception\ServerMessageThrower::autoThrow('InstagramAPI\\Re...', 'challenge_requi...', Object(InstagramAPI\Response\LoginResponse), Object(GuzzleHttp\Psr7\Response))
+#1 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(832): InstagramAPI\Client->mapServerResponse(Object(InstagramAPI\Response\LoginResponse), '{"message": "ch...', Object(GuzzleHttp\Psr7\Response))
+#2 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Instagram.php(507): InstagramAPI\Request->getResponse(Object(InstagramAPI\Response\LoginResponse))
+#3 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Instagram.php(453): In in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Exception/ServerMessageThrower.php on line 190
+[23-Jun-2019 23:18:54 Europe/Lisbon] PHP Warning:  openssl_encrypt(): Using an empty Initialization Vector (iv) is potentially insecure and not recommended in /home/socials1/instaviews.socialsivex.com/index.php on line 223
+[23-Jun-2019 22:18:55 UTC] PHP Warning:  Division by zero in /home/socials1/instaviews.socialsivex.com/home.php on line 141
+[23-Jun-2019 22:18:55 UTC] PHP Notice:  Undefined variable: ranking in /home/socials1/instaviews.socialsivex.com/home.php on line 208
+[23-Jun-2019 22:18:55 UTC] PHP Notice:  Undefined variable: datas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 555
+[23-Jun-2019 22:18:55 UTC] PHP Notice:  Undefined variable: n_vistas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 557
+[23-Jun-2019 23:29:49 Europe/Lisbon] PHP Notice:  Undefined index: action in /home/socials1/instaviews.socialsivex.com/index.php on line 98
+[23-Jun-2019 23:29:53 Europe/Lisbon] PHP Notice:  Undefined variable: user_id in /home/socials1/instaviews.socialsivex.com/index.php on line 115
+[23-Jun-2019 23:30:03 Europe/Lisbon] PHP Fatal error:  Uncaught InstagramAPI\Exception\NotFoundException: Requested resource does not exist. in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php:491
+Stack trace:
+#0 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(832): InstagramAPI\Client->mapServerResponse(Object(InstagramAPI\Response\UserInfoResponse), '<!DOCTYPE html>...', Object(GuzzleHttp\Psr7\Response))
+#1 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request/People.php(76): InstagramAPI\Request->getResponse(Object(InstagramAPI\Response\UserInfoResponse))
+#2 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request/People.php(96): InstagramAPI\Request\People->getInfoByName('Peppex94@live.i...')
+#3 /home/socials1/instaviews.socialsivex.com/index.php(211): InstagramAPI\Request\People->getUserIdForName('Peppex94@live.i...')
+#4 {main}
+  thrown in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php on line 491
+[23-Jun-2019 23:30:24 Europe/Lisbon] PHP Fatal error:  Uncaught InstagramAPI\Exception\NotFoundException: Requested resource does not exist. in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php:491
+Stack trace:
+#0 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(832): InstagramAPI\Client->mapServerResponse(Object(InstagramAPI\Response\UserInfoResponse), '<!DOCTYPE html>...', Object(GuzzleHttp\Psr7\Response))
+#1 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request/People.php(76): InstagramAPI\Request->getResponse(Object(InstagramAPI\Response\UserInfoResponse))
+#2 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request/People.php(96): InstagramAPI\Request\People->getInfoByName('Peppex94@live.i...')
+#3 /home/socials1/instaviews.socialsivex.com/index.php(211): InstagramAPI\Request\People->getUserIdForName('Peppex94@live.i...')
+#4 {main}
+  thrown in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php on line 491
+[23-Jun-2019 23:32:26 Europe/Lisbon] PHP Notice:  Undefined index: action in /home/socials1/instaviews.socialsivex.com/index.php on line 98
+[23-Jun-2019 23:32:30 Europe/Lisbon] PHP Notice:  Undefined index: action in /home/socials1/instaviews.socialsivex.com/index.php on line 98
+[23-Jun-2019 23:32:30 Europe/Lisbon] PHP Notice:  Undefined variable: user_id in /home/socials1/instaviews.socialsivex.com/index.php on line 115
+[23-Jun-2019 23:32:31 Europe/Lisbon] PHP Fatal error:  Uncaught InstagramAPI\Exception\ThrottledException: Throttled by Instagram because of too many API requests. in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php:681
+Stack trace:
+#0 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php(737): InstagramAPI\Client->_guzzleRequest(Object(GuzzleHttp\Psr7\Request), Array)
+#1 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php(806): InstagramAPI\Client->_apiRequest(Object(GuzzleHttp\Psr7\Request), Array, Array)
+#2 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(754): InstagramAPI\Client->api(Object(GuzzleHttp\Psr7\Request), Array)
+#3 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(775): InstagramAPI\Request->getHttpResponse()
+#4 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(831): InstagramAPI\Request->getRawResponse()
+#5 /home/socials1/instaviews.socialsivex.co in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php on line 681
+[23-Jun-2019 23:32:34 Europe/Lisbon] PHP Notice:  Undefined variable: user_id in /home/socials1/instaviews.socialsivex.com/index.php on line 115
+[23-Jun-2019 23:32:35 Europe/Lisbon] PHP Fatal error:  Uncaught InstagramAPI\Exception\ThrottledException: Throttled by Instagram because of too many API requests. in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php:681
+Stack trace:
+#0 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php(737): InstagramAPI\Client->_guzzleRequest(Object(GuzzleHttp\Psr7\Request), Array)
+#1 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php(806): InstagramAPI\Client->_apiRequest(Object(GuzzleHttp\Psr7\Request), Array, Array)
+#2 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(754): InstagramAPI\Client->api(Object(GuzzleHttp\Psr7\Request), Array)
+#3 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(775): InstagramAPI\Request->getHttpResponse()
+#4 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(831): InstagramAPI\Request->getRawResponse()
+#5 /home/socials1/instaviews.socialsivex.co in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php on line 681
+[23-Jun-2019 23:32:36 Europe/Lisbon] PHP Notice:  Undefined index: action in /home/socials1/instaviews.socialsivex.com/index.php on line 98
+[23-Jun-2019 23:32:36 Europe/Lisbon] PHP Notice:  Undefined index: logged_in_user in /home/socials1/instaviews.socialsivex.com/index.php on line 115
+[23-Jun-2019 23:32:36 Europe/Lisbon] PHP Notice:  Undefined variable: user_id in /home/socials1/instaviews.socialsivex.com/index.php on line 115
+[23-Jun-2019 23:32:37 Europe/Lisbon] PHP Fatal error:  Uncaught InstagramAPI\Exception\ThrottledException: Throttled by Instagram because of too many API requests. in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php:681
+Stack trace:
+#0 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php(737): InstagramAPI\Client->_guzzleRequest(Object(GuzzleHttp\Psr7\Request), Array)
+#1 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php(806): InstagramAPI\Client->_apiRequest(Object(GuzzleHttp\Psr7\Request), Array, Array)
+#2 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(754): InstagramAPI\Client->api(Object(GuzzleHttp\Psr7\Request), Array)
+#3 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(775): InstagramAPI\Request->getHttpResponse()
+#4 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(831): InstagramAPI\Request->getRawResponse()
+#5 /home/socials1/instaviews.socialsivex.co in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php on line 681
+[23-Jun-2019 23:32:38 Europe/Lisbon] PHP Notice:  Undefined index: action in /home/socials1/instaviews.socialsivex.com/index.php on line 98
+[23-Jun-2019 23:32:38 Europe/Lisbon] PHP Notice:  Undefined index: logged_in_user in /home/socials1/instaviews.socialsivex.com/index.php on line 115
+[23-Jun-2019 23:32:38 Europe/Lisbon] PHP Notice:  Undefined variable: user_id in /home/socials1/instaviews.socialsivex.com/index.php on line 115
+[23-Jun-2019 23:32:39 Europe/Lisbon] PHP Fatal error:  Uncaught InstagramAPI\Exception\ThrottledException: Throttled by Instagram because of too many API requests. in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php:681
+Stack trace:
+#0 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php(737): InstagramAPI\Client->_guzzleRequest(Object(GuzzleHttp\Psr7\Request), Array)
+#1 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php(806): InstagramAPI\Client->_apiRequest(Object(GuzzleHttp\Psr7\Request), Array, Array)
+#2 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(754): InstagramAPI\Client->api(Object(GuzzleHttp\Psr7\Request), Array)
+#3 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(775): InstagramAPI\Request->getHttpResponse()
+#4 /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Request.php(831): InstagramAPI\Request->getRawResponse()
+#5 /home/socials1/instaviews.socialsivex.co in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Client.php on line 681
+[23-Jun-2019 23:33:14 Europe/Lisbon] PHP Warning:  openssl_encrypt(): Using an empty Initialization Vector (iv) is potentially insecure and not recommended in /home/socials1/instaviews.socialsivex.com/index.php on line 223
+[23-Jun-2019 22:33:15 UTC] PHP Warning:  Division by zero in /home/socials1/instaviews.socialsivex.com/home.php on line 141
+[23-Jun-2019 22:33:15 UTC] PHP Notice:  Undefined variable: ranking in /home/socials1/instaviews.socialsivex.com/home.php on line 208
+[23-Jun-2019 22:33:15 UTC] PHP Notice:  Undefined variable: datas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 555
+[23-Jun-2019 22:33:15 UTC] PHP Notice:  Undefined variable: n_vistas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 557
+[23-Jun-2019 22:34:32 UTC] PHP Warning:  Division by zero in /home/socials1/instaviews.socialsivex.com/home.php on line 141
+[23-Jun-2019 22:34:32 UTC] PHP Notice:  Undefined variable: ranking in /home/socials1/instaviews.socialsivex.com/home.php on line 208
+[23-Jun-2019 22:34:32 UTC] PHP Notice:  Undefined variable: datas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 555
+[23-Jun-2019 22:34:32 UTC] PHP Notice:  Undefined variable: n_vistas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 557
+[23-Jun-2019 22:35:14 UTC] PHP Warning:  Division by zero in /home/socials1/instaviews.socialsivex.com/home.php on line 141
+[23-Jun-2019 22:35:14 UTC] PHP Notice:  Undefined variable: ranking in /home/socials1/instaviews.socialsivex.com/home.php on line 208
+[23-Jun-2019 22:35:14 UTC] PHP Notice:  Undefined variable: datas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 555
+[23-Jun-2019 22:35:14 UTC] PHP Notice:  Undefined variable: n_vistas_me in /home/socials1/instaviews.socialsivex.com/home.php on line 557
+[23-Jun-2019 22:47:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function MediaAutoResizer() in /home/socials1/instaviews.socialsivex.com/bot_story.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/socials1/instaviews.socialsivex.com/bot_story.php on line 38
+[23-Jun-2019 22:48:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function MediaAutoResizer() in /home/socials1/instaviews.socialsivex.com/bot_story.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/socials1/instaviews.socialsivex.com/bot_story.php on line 39
+[23-Jun-2019 22:49:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function InstagramMedia() in /home/socials1/instaviews.socialsivex.com/bot_story.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/socials1/instaviews.socialsivex.com/bot_story.php on line 39
+[23-Jun-2019 22:51:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFile() on string in /home/socials1/instaviews.socialsivex.com/bot_story.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/socials1/instaviews.socialsivex.com/bot_story.php on line 40
+[23-Jun-2019 22:58:09 UTC] PHP Notice:  Undefined property: InstagramAPI\Media\Photo\InstagramPhoto::$_blurredBorder in /home/socials1/instaviews.socialsivex.com/vendor/mgp25/instagram-php/src/Media/Photo/InstagramPhoto.php on line 156

@@ -1,0 +1,118 @@
+@font-face {
+	font-family: 'Neue-regular';
+	src: url('fonts/NeueHansKendrick-Regular.eot'); /* IE9 Compat Modes */
+	src: url('fonts/NeueHansKendrick-Regular?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('fonts/NeueHansKendrick-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+	url('fonts/NeueHansKendrick-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+	url('fonts/NeueHansKendrick-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+	url('fonts/NeueHansKendrick-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+	font-family: 'Neue-bold';
+	src: url('fonts/NeueHansKendrick-Bold.eot'); /* IE9 Compat Modes */
+	src: url('fonts/NeueHansKendrick-Bold?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('fonts/NeueHansKendrick-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+	url('fonts/NeueHansKendrick-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+	url('fonts/NeueHansKendrick-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+	url('fonts/NeueHansKendrick-Bold.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+.Neue-regular {
+	font-family: Neue-regular;
+}
+
+.Neue-bold {
+	font-family: Neue-bold;
+}
+
+.visitar_perfil:hover {
+	/* background: #FD0E35; */
+	background: #007bff;
+	color: white;
+}
+* { padding: 0; margin: 0; }
+html, body, .container-fluid {
+	min-height: 100% !important;
+	height: 100%;
+}
+#fullheight {
+	width: 250px;
+	background: blue;
+}
+
+.column {
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+	content: "";
+	clear: both;
+	display: table;
+}
+#card {
+	height: 71%; 
+	width: 100%; 
+	position: fixed; 
+	bottom: 0; 
+	left: 0; 
+	display: none;
+}
+
+@media only screen and (max-height:850px) {
+	#card {
+		height: 78%; 
+		width: 100%; 
+		position: fixed; 
+		bottom: 0; 
+		left: 0; 
+		display: none;
+	}
+	#historias_guardadas {
+		font-size: 30px;
+	}
+	#container {
+		padding: 0;
+	}
+	#logo {
+		width: 30% !important;
+	}
+}
+@media only screen and (max-height:800px) {
+	#card {
+		height: 76%; 
+		width: 100%; 
+		position: fixed; 
+		bottom: 0; 
+		left: 0; 
+		display: none;
+	}
+}
+@media only screen and (max-height:720px) {
+	#card {
+		height: 74%; 
+		width: 100%; 
+		position: fixed; 
+		bottom: 0; 
+		left: 0; 
+		display: none;
+	}
+}
+
+@media only screen and (max-height:620px) {
+	#card {
+		height: 71%; 
+		width: 100%; 
+		position: fixed; 
+		bottom: 0; 
+		left: 0; 
+		display: none;
+	}
+}
+
+
+.roboto {
+	font-family: 'Roboto', sans-serif;
+}
