@@ -1,5 +1,7 @@
 # Instagram Story Viewer App: Story Stalkers
+
 This repository contains the source code of an innovative **Instagram Story Viewer application**. This project utilized a blend of **HTML, CSS, JS, jQuery, AJAX, Bootstrap 4**, and **Java** to create a feature-rich web and Android app. The application successfully amassed over **200,000 downloads** on the Google Play Store.
+
 ![StoryStalkers](https://socialify.git.ci/bakill3/StoryStalkers/image?font=Raleway&language=1&name=1&owner=1&stargazers=1&theme=Light)
 
 
