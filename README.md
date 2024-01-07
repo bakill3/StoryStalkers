@@ -35,7 +35,7 @@ I developed this project single-handedly with all data encrypted, ensuring user 
 
 | Feature | Screenshot |
 |---------|------------|
-| User Homepage | ![Homepage](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_10.png) |
+| User Homepage | ![Homepage](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_10.jpg) |
 | UI Menu | ![UI Menu](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_2.png) |
 | Top Stalkers AD Block | ![Watch Ad to Unlock](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_3.png) |
 | Top Stalkers | ![Top Stalkers](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_4.png) |
