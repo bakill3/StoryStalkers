@@ -39,7 +39,6 @@ I developed this project single-handedly with all data encrypted, ensuring user 
 | UI Menu | ![UI Menu](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_2.png) |
 | Top Stalkers AD Block | ![Watch Ad to Unlock](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_3.png) |
 | Top Stalkers | ![Top Stalkers](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_4.png) |
-| Top Stalkers List | ![Top Stalkers List](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_5.png) |
 | Account Statistics | ![Story View](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_11.jpg) |
 | Account Settings | ![Story Viewers List](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_12.jpg) |
 | App Firebase Notification | ![Notification Example](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_7.png) |
