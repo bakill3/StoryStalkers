@@ -31,6 +31,26 @@ Implementing proxies for IPs was considered but was found to be too expensive. T
 
 I developed this project single-handedly with all data encrypted, ensuring user data privacy and security. However, due to a server error, most of the code was lost. Some remnants might still exist on an old computer, and there are also videos, photos, statistics, and snippets of code available for those interested (available on **YouTube**).
 
+## **Project Features Showcase**
+
+| Feature | Screenshot |
+|---------|------------|
+| User Homepage | ![Homepage]([url_to_image](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_10.png)) |
+| UI Menu | ![UI Menu]([url_to_image](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_2.png)) |
+| Top Stalkers AD Block | ![Watch Ad to Unlock](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_3.png) |
+| Top Stalkers | ![Top Stalkers]([url_to_image](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_4.png)) |
+| Top Stalkers List | ![Top Stalkers List](url_to_image) |
+| Account Statistics | ![Story View](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_11.jpg) |
+| Account Settings | ![Story Viewers List](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_12.jpg) |
+| App Firebase Notification | ![Notification Example](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_7.png) |
+| Story Showcase | ![Story Showcase](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_5.png) |
+| Story Viewers | ![Story Viewers](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_6.png) |
+| App Main Functionality | ![App Main Functionality](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_13) |
+| Google Console Statistics  | ![Google Console Statistics](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_8.jpg) |
+| Backend Old Statistics  | ![Backend Old Statistics](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_9.jpg) |
+| Content Statistics Showcase  | ![Content Statistics](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_1.jpg) |
+
+
 ## **Contribute**
 
 Although this project had to be closed, it provides an interesting case study for those interested in exploring similar functionalities or learning from its design and implementation. Feel free to fork this repository, create a branch, add commits, and create a pull request. 
