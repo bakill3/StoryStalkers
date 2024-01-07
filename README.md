@@ -44,7 +44,7 @@ I developed this project single-handedly with all data encrypted, ensuring user 
 | App Firebase Notification | ![Notification Example](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_7.png) |
 | Story Showcase | ![Story Showcase](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_5.png) |
 | Story Viewers | ![Story Viewers](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_6.png) |
-| App Main Functionality | ![App Main Functionality](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_13) |
+| App Main Functionality | ![App Main Functionality](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_13.png) |
 | Google Console 7 Days Statistics  | ![Google Console 7 Days Statistics](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_8.jpg) |
 | Backend Old Statistics  | ![Backend Old Statistics](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_9.jpg) |
 | Content Statistics Showcase  | ![Content Statistics](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_1.jpg) |
