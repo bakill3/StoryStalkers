@@ -23,14 +23,6 @@ When a user's story was saved, an automated message was sent from the app's offi
 
 ![alt text](https://github.com/bakill3/StoryStalkers/blob/main/94401201_3284364331596674_755577668283600024_n.jpg?raw=true)
 
-## **Project History and Closure**
-
-This project started in **May 2019** and had to be shut down around **March 2020**. The application gained significant traction, with over 200,000 downloads, but faced an obstacle when Instagram started blocking or shadow banning the IP of the server due to too many account accesses at once.
-
-Implementing proxies for IPs was considered but was found to be too expensive. The application, which was initially free, was then monetized with advertisements. Unfortunately, the **mgp25 API was banned from GitHub**, which affected other independent applications and websites. 
-
-I developed this project single-handedly with all data encrypted, ensuring user data privacy and security. However, due to a server error, most of the code was lost. Some remnants might still exist on an old computer, and there are also videos, photos, statistics, and snippets of code available for those interested (available on **YouTube**).
-
 ## **Project Features Showcase**
 
 | Feature | Screenshot |
@@ -48,6 +40,15 @@ I developed this project single-handedly with all data encrypted, ensuring user 
 | Google Console 7 Days Statistics  | ![Google Console 7 Days Statistics](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_8.jpg) |
 | Backend Old Statistics  | ![Backend Old Statistics](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_9.jpg) |
 | Content Statistics Showcase  | ![Content Statistics](https://github.com/bakill3/StoryStalkers/blob/main/story_stalkers_1.jpg) |
+
+## **Project History and Closure**
+
+This project started in **May 2019** and had to be shut down around **March 2020**. The application gained significant traction, with over 200,000 downloads, but faced an obstacle when Instagram started blocking or shadow banning the IP of the server due to too many account accesses at once.
+
+Implementing proxies for IPs was considered but was found to be too expensive. The application, which was initially free, was then monetized with advertisements. Unfortunately, the **mgp25 API was banned from GitHub**, which affected other independent applications and websites. 
+
+I developed this project single-handedly with all data encrypted, ensuring user data privacy and security. However, due to a server error, most of the code was lost. Some remnants might still exist on an old computer, and there are also videos, photos, statistics, and snippets of code available for those interested (available on **YouTube**).
+
 
 
 ## **Contribute**
